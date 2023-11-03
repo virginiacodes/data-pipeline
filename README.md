@@ -17,7 +17,7 @@ This is where you will save your client ID and client Secret from your Spotify a
 SPOTIPY_CLIENT_ID=your_client_id
 SPOTIPY_CLIENT_SECRET=your_client_secret
 
-## __main__.py
+## main.py
 
 Run this file to start the data processing. Make sure to add your own directory path on line 19 and 20 to create your csv files.
 
