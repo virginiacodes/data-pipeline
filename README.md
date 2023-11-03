@@ -29,7 +29,7 @@ If you want to change which playlist to retrieve data from, here is what to do:
 1. Go to Spotify and find a playlist you like.
 2. Copy the playlist ID which are a bunch of numbers that can be found at the end of its URL like in this example:
    
-   https://open.spotify.com/playlist/**37i9dQZF1DWVCKO3xAlT1Q**
+   https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q
    That's the Eurovision 2023 winners playlist (best playlist of the year in my opinion) :tada:
 
 3. Go to line 38 of this file and replace the playlist IDs in the list with your own.
