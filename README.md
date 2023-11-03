@@ -14,7 +14,7 @@ In your new app, go to 'Settings' and you will find your client ID and client Se
 
 This is where you will save your client ID and client Secret from your Spotify app. In this format:
 
-SPOTIPY_CLIENT_ID=your_client_id
+SPOTIPY_CLIENT_ID=your_client_id <br>
 SPOTIPY_CLIENT_SECRET=your_client_secret
 
 ## main.py
